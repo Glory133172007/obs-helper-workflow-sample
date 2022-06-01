@@ -83,7 +83,7 @@
     └── upload
             └── newFile1.txt
 ```
-完整样例： .github/workflows/upload-file-rename-sample.yml
+完整样例： [.github/workflows/upload-file-rename-sample.yml](.github/workflows/upload-file-rename-sample.yml)
 ### 2、上传文件夹至OBS
 #### 将本地文件夹resource/upload/folder2内的全部文件和文件夹上传至桶内src/upload/newFolder中
 ```yaml
